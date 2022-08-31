@@ -1,5 +1,5 @@
 # flappybird-AI-NEAT
-FlappyBird AI using NEAT (Neuroevolution of augmenting topologies)
+FlappyBird AI using NEAT (Neuroevolution of augmenting topologies) <br/> 
 Project done as a challenge in my free time :blush: <br/> 
 Thank's CodeBullet for the idea! 
 
