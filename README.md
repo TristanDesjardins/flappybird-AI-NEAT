@@ -18,7 +18,7 @@ Check NEAT algo for more info.
 
 ## Preview 
 
-Just run 'flappybird_neat.py' file to see our birds in action! Here's our birds after 11 generations:
+Just run 'flappybird_neat.py' file to see our birds in action! Here are our birds after 11 generations:
 <br/>
 <img src="https://user-images.githubusercontent.com/62900180/187653342-3a4e1fa2-c674-4d40-a570-c8ad9941b350.gif" height="500">
 <br/>
