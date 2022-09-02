@@ -1,4 +1,4 @@
-# flappybird-AI-NEAT
+# FlappyBird AI - NEAT genetic algorithm 
 FlappyBird AI using 'Neuroevolution of augmenting topologies' aka NEAT (with neat library and pygame) <br/> 
 Project done as a challenge in my free time :blush: <br/> 
 Thank's CodeBullet for the idea! 
