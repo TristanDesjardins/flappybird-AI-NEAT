@@ -17,7 +17,7 @@ We repeat this process (called a generation) until birds are good enough.
 Check NEAT algo for more info.
 
 ## Preview 
-training phase             |  After training
+**training phase**             |  **After training**
 :-------------------------:|:-------------------------:
 ![flap_training](https://user-images.githubusercontent.com/62900180/188199607-8eb74cd4-dc56-4ad5-988e-9757f5c2bc22.gif)| ![flap_trained](https://user-images.githubusercontent.com/62900180/188199583-87ab7b9d-f616-4a99-99f3-cf91bced2172.gif)
 
