@@ -17,16 +17,12 @@ We repeat this process (called a generation) until birds are good enough.
 Check NEAT algo for more info.
 
 ## Preview 
+training phase             |  After training
+:-------------------------:|:-------------------------:
+![flap_training](https://user-images.githubusercontent.com/62900180/188199607-8eb74cd4-dc56-4ad5-988e-9757f5c2bc22.gif)| ![flap_trained](https://user-images.githubusercontent.com/62900180/188199583-87ab7b9d-f616-4a99-99f3-cf91bced2172.gif)
 
-Just run 'flappybird_neat.py' file to see our birds in action! Here are our birds after 11 generations:
-<br/>
-<img src="https://user-images.githubusercontent.com/62900180/187653342-3a4e1fa2-c674-4d40-a570-c8ad9941b350.gif" height="500">
 <br/>
 
-Here's the best model obtained with NEAT. 14000, pretty good right? 
-<br/>
-<img src="https://user-images.githubusercontent.com/62900180/187653442-7166b03b-6b17-4e29-a33f-8f50897327cf.gif" height="500">
-<br/>
 
 ## Main files
 - flappybird_neat.py : to run NEAT algo and saved best model 
