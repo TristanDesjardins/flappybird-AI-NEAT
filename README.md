@@ -3,6 +3,13 @@ FlappyBird AI using 'Neuroevolution of augmenting topologies' aka NEAT (with nea
 Project done as a challenge in my free time :blush: <br/> 
 Thank's CodeBullet for the idea! 
 
+
+## Preview 
+**training phase**             |  **After training**
+:-------------------------:|:-------------------------:
+![flap_training](https://user-images.githubusercontent.com/62900180/188199607-8eb74cd4-dc56-4ad5-988e-9757f5c2bc22.gif)| ![flap_trained](https://user-images.githubusercontent.com/62900180/188218028-7f185322-de87-4fb6-a018-be91f73529ac.gif)
+
+
 ## General Idea 
 
 Here's how I adapted NEAT for my case:
@@ -16,13 +23,6 @@ We repeat this process (called a generation) until birds are good enough.
 
 Check NEAT algo for more info.
 
-## Preview 
-**training phase**             |  **After training**
-:-------------------------:|:-------------------------:
-![flap_training](https://user-images.githubusercontent.com/62900180/188199607-8eb74cd4-dc56-4ad5-988e-9757f5c2bc22.gif)| ![flap_trained](https://user-images.githubusercontent.com/62900180/188218028-7f185322-de87-4fb6-a018-be91f73529ac.gif)
-
-
-<br/>
 
 
 ## Main files
