@@ -30,4 +30,6 @@ Check NEAT algo for more info.
 - flappybird.py : if 'AI' == True, AI will be playing. if 'AI' == False, you can play the game yourself 
 
 ## Installation 
-- python 3.9.12
+- Python 3.9.12
+- [pygame 2.1.2](https://www.pygame.org/news) : for the game engine 
+- [neat 0.4.1](https://neat-python.readthedocs.io/en/latest/installation.html) : for the AI 
