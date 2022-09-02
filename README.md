@@ -25,8 +25,8 @@ Check NEAT algo for more info.
 
 
 ## Main files
-- flappybird_neat.py : to run NEAT algo and saved best model 
-- flappybird.py : if 'AI' == True, AI will be playing. if 'AI' == False, you can play the game yourself! 
+- flappybird_neat.py : to run NEAT algo and save best model 
+- flappybird.py : if 'AI' == True, AI will be playing. if 'AI' == False, you can play the game yourself 
 
 ## Installation 
 - python 3.9.12
